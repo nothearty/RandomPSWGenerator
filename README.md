@@ -1,5 +1,5 @@
 # RandomPSWGenerator
-Random password generator 
+Simple random password generator 
 
 To add:
 - [ ] possibility to choose the length
